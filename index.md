@@ -21,7 +21,6 @@ In today's era, where technology is advancing at an unprecedented pace, I aspire
 - Text
   - Email, Telegram, Wechat for daily communication
   - Books
-    - 
 
 # Challenge
 
