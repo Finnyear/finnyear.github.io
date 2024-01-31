@@ -1,3 +1,33 @@
+# Motivation
+
+In today's era, where technology is advancing at an unprecedented pace, I aspire to preserve my original thoughts and feelings amidst the deluge of emerging data and new technologies. It seems that many of us are ensnared by fragmented information, becoming unwitting puppets of our times. While technology has the capacity to supplant human labor, it can never replicate the depth of human emotions and perceptual judgments. Media serves as the conduit through which we access information, and I am keen to delve into the evolution of media in the information age and its repercussions on humanity itself.
+
+# Media I frequently use
+
+- Music
+  - Pop music
+  - Rap
+  - Rock
+- Games
+  - FPS Games
+  - RPG Games
+  - Sports Games
+- Images
+  - Photography
+- Vedios
+  - Movies
+  - Online video websites
+  - TV series
+- Text
+  - Email, Telegram, Wechat for daily communication
+  - Books
+    - 
+
+# Challenge
+
+Recently, I've noticed a significant decline in my ability to process and generate textual information. My concentration on text has waned, a change I attribute to my prolonged immersion in video content, particularly short-form videos. This shift is alarming. It's been an age since I last read a book in its entirety, leaving me with a profound sense of emptiness. The bite-sized nature of video content seems to be dismantling my capacity for emotional engagement and critical thought. Recognizing this, I feel a pressing need to step back from such media to reclaim the distinctly human qualities that artificial intelligence cannot replicate.
+
+<!-- 
 ---
 layout: default
 ---
@@ -120,4 +150,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
