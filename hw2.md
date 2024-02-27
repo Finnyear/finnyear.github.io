@@ -2,7 +2,7 @@
 permalink: /hw2/
 ---
 
-# Common Medias
+## Common Medias
 
 - [Music](https://sites.google.com/view/jadedavis-445/home)
   - Pop music
@@ -37,6 +37,6 @@ permalink: /hw2/
     - Red rising
     - The Three-Body Problem
 
-# Changes
+## Changes
 
 I gave few examples in each catagory.
